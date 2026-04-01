@@ -1,5 +1,3 @@
-
-markdown
 # 🤖 Augmentasi Citra Otomatis (Batch Processing)
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
